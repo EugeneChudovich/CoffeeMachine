@@ -19,7 +19,7 @@ namespace CoffeeMachine
 
 
             Console.WriteLine("Coffee drinks");
-            Console.WriteLine("*******************");
+            Console.WriteLine("******************");
             Console.WriteLine("1 - Americano");
             Console.WriteLine("2 - Capuchino");
             Console.WriteLine("3 - Espresso");
