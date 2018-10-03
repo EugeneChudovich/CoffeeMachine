@@ -6,7 +6,6 @@ namespace CoffeeMachine
     {
         static void Main(string[] args)
         {
-            //Console.OutputEncoding = System.Text.Encoding.Unicode;
 
             const double AmericanoPrice = 15.0;
             const double CapuchinoPrice = 20.0;
